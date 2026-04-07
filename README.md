@@ -2,6 +2,11 @@
 
 一个基于 Windows 的本地音频转录工具，通过 WSL 后端调用 Qwen3-ASR 模型。支持本地文件及 URL 下载，内置 VAD 检测、降噪及智能分段处理，让 Windows 用户也能轻松使用 Qwen3-ASR 进行高准确度语音转录。*
 
+<img width="1654" height="1319" alt="图片" src="https://github.com/user-attachments/assets/a962d388-7609-433f-a6de-f7b35e8e2e3f" />
+<img width="3040" height="1249" alt="图片" src="https://github.com/user-attachments/assets/d6ba2729-d817-4015-b948-b3e3570749ce" />
+
+
+
 ## 功能特点
 
 - 支持多种音频/视频格式（wav, mp3, m4a, flac, ogg, aac, mp4, avi, mkv, mov 等）
